@@ -6,15 +6,15 @@ http://goo.gl/coder
 
 ### MANUAL INSTALL:
 
-1. You need to have node.js and npm installed
+1.) You need to have node.js and npm installed
 
-2. In coder-base run "npm install" to download all the
+2.) In coder-base run "npm install" to download all the
    needed modules.
 ```bash
 $ cd coder-base
 $ npm install
 ```
-3. Start Coder
+3.) Start Coder
 ```bash
 $ cd coder-base
 $ node localserver.js
