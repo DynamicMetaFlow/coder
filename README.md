@@ -19,5 +19,5 @@ $ npm install
 $ cd coder-base
 $ node localserver.js
 ```
-4) Open a browser and enter: https://localserver:8081
-
+4) Open a browser to 
+https://localserver:8081
