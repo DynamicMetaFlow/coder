@@ -10,11 +10,11 @@ http://goo.gl/coder
 
 2. In coder-base run "npm install" to download all the
    needed modules.
+
 ```bash
 $ cd coder-base
 $ npm install
 ```
-
 
 3. Start Coder
 ```bash
