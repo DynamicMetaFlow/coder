@@ -12,6 +12,6 @@ http://goo.gl/coder
    needed modules.
 
 3. Start Coder
-   # cd coder-base
-   # node localserver.js
+   cd coder-base
+   node localserver.js
 
